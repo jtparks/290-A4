@@ -9,6 +9,8 @@ You are provided with several files in `public/` implementing the Tweeter site w
 
 The file `server.js` is the file you'll work on for this assignment.  Your job is to complete that file to implement a very basic Node-based web server that satisfies the following requirements:
 
+  * First, add your name and oregonstate.edu email address to the header comment in `server.js`, so the TA grading your assignment knows who you are.
+
   * The server can only use Node's built-in modules (e.g. `http`, `fs`, `path`, etc.), no third-party modules.
 
   * The server should listen for requests on the port specified by the environment variable `PORT`.  If `PORT` is not present in the environment, the server should listen on port 3000 by default.
