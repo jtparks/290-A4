@@ -1,6 +1,12 @@
 # Assignment 4
 **Assignment and Code Blog entry due at 11:59pm on Monday, 5/21/2018**
 
+## Synopsis
+This is a Twitter-like website that served as an intro to Web Design. Node.js is used to implement new "twits" This is the culmination of three different assignments. The first had us style a plain HTML using CSS to match a mockup. The second saw us implementing front-end JavaScript to implement UI that adds new "twits" to our page and allows us to search through the twits. The final assignment used node.js to create server functionality for our website.
+
+## Creation Purpose
+This website was created for a Web Development class
+
 **This assignment will not be demoed**
 
 The goal of this assignment is to start to use Node.js and some of its built-in modules to build a very simple web server that serves static content.
